@@ -1,5 +1,5 @@
 const comprarButton = document.getElementById('comprar')
 comprarButton.addEventListener('click', () => {
-    window.location.href = '';
+    window.location.href = 'https://pay.kiwify.com.br/iAPVKyd';
 });
 
